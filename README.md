@@ -68,7 +68,7 @@ npm start
 
 Web page demo
 
-![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/Screenshot_1.png)
+![DEMO](https://locallity-logos.s3.us-west-1.amazonaws.com/Screenshot_1.png)
 
 
 ## Scripts
