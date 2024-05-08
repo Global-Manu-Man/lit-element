@@ -10,7 +10,7 @@ We transform ideas into exceptional digital experiences. Your user-centered web 
 
 
 
- - [Instructions to download project Github ](https://github.com/Global-Manu-Man/simple-employees-crud.git)
+ - [Instructions to download project Github ](https://github.com/Global-Manu-Man/lit-element.git)
 
 
 
@@ -18,7 +18,32 @@ We transform ideas into exceptional digital experiences. Your user-centered web 
 
 [![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
 
+## DownloadProject
+
+Once you are in the correct directory, use the git clone command followed by the URL of the repository you want to clone. For example:
+
+
+```bash
+git clone https://github.com/Global-Manu-Man/lit-element.git
+
+# requires node 10 & npm 6 or higher
+```
+## MoveLocalFolder
+
+
+```bash
+cd lit-element
+# requires node 10 & npm 6 or higher
+```
+
+
+Press Enter to execute the command. Git will start cloning the repository to your local machine. Once the cloning is complete, you will have downloaded a copy of the repository to your computer. You can navigate to the directory of the cloned repository using the cd command. For example:
+
+
 ## Quickstart
+
+
+
 
 To get started:
 
