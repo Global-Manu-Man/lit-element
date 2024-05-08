@@ -1,6 +1,18 @@
-<p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
-</p>
+![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/icon-blue.png)
+
+
+## Pakal Technological Solutions
+
+We transform ideas into exceptional digital experiences. Your user-centered web design and development hub.
+
+
+## Table of Contents
+
+
+
+ - [Instructions to download project Github ](https://github.com/Global-Manu-Man/simple-employees-crud.git)
+
+
 
 ## Open-wc Starter App
 
@@ -11,9 +23,22 @@
 To get started:
 
 ```bash
-npm init @open-wc
+npm install
+
 # requires node 10 & npm 6 or higher
 ```
+
+## StartProject
+
+The command starts the  development server, allowing you to run your LitElement project locally.
+
+
+```bash
+npm start
+
+# requires node 10 & npm 6 or higher
+```
+
 
 ## Scripts
 
