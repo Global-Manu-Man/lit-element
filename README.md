@@ -64,6 +64,12 @@ npm start
 # requires node 10 & npm 6 or higher
 ```
 
+## Demo
+
+Web page demo
+
+![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/Screenshot_1.png)
+
 
 ## Scripts
 
